@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 dong thu nhat tren may 2
-=======
+
 dong thu nhat tren may 1
->>>>>>> 6c39af9238fc15d4cf1010cceac4c571a4713dd8
+
