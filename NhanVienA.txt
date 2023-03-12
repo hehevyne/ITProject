@@ -13,3 +13,5 @@ Sua lan 2
 Dung SourceTree
 
 Them noi dung moi 
+
+Noi dung nhanh C
