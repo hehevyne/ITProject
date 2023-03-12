@@ -12,4 +12,4 @@ Sua lan 2
 
 Dung SourceTree
 
-Them noi dung moi 
+Them noi dung moi len nhanh main
