@@ -15,3 +15,5 @@ Dung SourceTree
 Them noi dung moi 
 
 Noi dung nhanh C
+
+merge lan 2
